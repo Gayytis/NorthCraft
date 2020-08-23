@@ -23,7 +23,7 @@ Pour tout soucis autre que de la Modération, il faut s'adresser à lui.
 ## Recrutement
 Nous sommes actuellement à la recherche de membres pour l'équipe de Modération. Des Guides.
 
-Si vous êtes intéressé(e), n'hésitez pas à créer une candidature sur le forum (https://mc-northcraft.fr/forum)
+Si vous êtes intéressé(e), n'hésitez pas à créer une candidature sur le [forum](https://mc-northcraft.fr/forum).
 
 ## Notre équipe
 
