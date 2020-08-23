@@ -6,35 +6,45 @@ Merci à vous ainsi qu'à toute l'équipe de Modération d'être présents à no
 
 Pour plus d'informations :
 
--NorthCraft a été ouvert en 2020. 
+* NorthCraft a été ouvert en 2020. 
 
--Il s'agit d'un serveur Minecraft francophone.
+* Il s'agit d'un serveur Minecraft francophone.
 
--Le fondateur de ce serveur est Gaytis.
+* Le fondateur de ce serveur est Gaytis.
 
--Il s'agit actuellement d'un serveur Vanilla. D'autres serveurs se rajouteront par la suite.
+* Il s'agit actuellement d'un serveur Vanilla. D'autres serveurs se rajouteront par la suite.
 
-# Développement
+## Développement
 Gaytis est le seul et unique développeur de NorthCraft.
 Il obtient de temps à autre l'aide de membres de son équipe.
 
-Pour tout soucis autres que de la Modération, il faut s'adresser à lui.
+Pour tout soucis autre que de la Modération, il faut s'adresser à lui.
 
-# Recrutement
+## Recrutement
 Nous sommes actuellement à la recherche de membres pour l'équipe de Modération. Des Guides.
 
-Si vous êtes intéressé(e), n'hésitez pas à créer une candidature sur le forum (<URL>https://mc-northcraft.fr/forum</URL>)
+Si vous êtes intéressé(e), n'hésitez pas à créer une candidature sur le forum (https://mc-northcraft.fr/forum)
 
-# Notre équipe
+## Notre équipe
 
 Notre équipe se compose de :
 
-Administrateur : Gaytis
+* Administrateur :
+  * Gaytis
+  
+  
+* Responsables :
+  * Bananaleks
+  
+  * redquick_
+  
+  * Aldwiin62
+  
+  
+* Modérateurs :
+  * H3R0FL000
+  
+  
+* Guides :
 
-Responsable : Bananaleks
-
-Responsable : redquick_
-
-Responsable : Aldwiin62
-
-Modérateur : H3R0FL000
+  * [Recrutement en cours]
