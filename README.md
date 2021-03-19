@@ -49,3 +49,6 @@ Notre équipe se compose de :
 * Guides :
 
   * [Recrutement en cours]
+
+* Le mec inutile mais qui aide quand il peux :
+  * Lorio
