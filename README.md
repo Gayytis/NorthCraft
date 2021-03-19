@@ -16,7 +16,7 @@ Pour plus d'informations :
 
 ## Développement
 Gaytis est le seul et unique développeur de NorthCraft.
-Il obtient de temps à autre l'aide de membres de son équipe.
+Il obtient de temps à autre l'aide de membres de son équipe (et du connard le Lorio).
 
 Pour tout soucis autre que de la Modération, il faut s'adresser à lui.
 
